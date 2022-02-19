@@ -13,7 +13,6 @@ public class Calculator {
         a=s.nextInt();
         System.out.print("Enter second number: ");
         b=s.nextInt();
-         
         System.out.print("\n1: Addition.\n2: Subtraction.");
         System.out.print("\n3: Multiplication.\n4: Divide.");
         System.out.print("\n5: Remainder.\n6: Exit.");

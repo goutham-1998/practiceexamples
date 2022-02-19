@@ -21,7 +21,6 @@ public class QuizProgram {
 	else if (n == 5)
 	{
 		break;
-		
 	}
 	else if (n>5)
 	{
