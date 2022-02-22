@@ -37,6 +37,8 @@ public class Calculator {
             case 5:
                 result=(a%b); 
                 break;
+            case 6:
+            	System.out.println("Calci exited");
             default:
                 System.out.println("Please choose the correct operator!!!\n");
                 return;
